@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
  */
 
-package ues.occ.edu.sv.ingenieria.prn335.guia02_2022;
+package ues.occ.edu.sv.ingenieria.prn335.entity;
 
 /**
  *
